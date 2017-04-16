@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+`:(){ :|: & };:`
 
 Currently working as a Tech Lead @[Newslaundry](https://www.newslaundry.com).
 
