@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Weather Web App Using AngularJS"
-date:   2016-02-11 20:55:38 +0530
+title:  "Wikipedia Search Web App Using AngularJS"
+date:   2016-03-04 20:55:38 +0530
 categories: AngularJS
 ---
 This is another AngularJS app to search Wikipedia. I have used WebAPI to implement voice recognition.
